@@ -1,12 +1,12 @@
 .header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 1rem;
-    background-color: #e0f7fa; /* Optional: Match your page's color scheme */
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  /*background-color: #fff; /* Updated to white */
+}
 
-  .logo {
-    width: 150px; /* Adjust the size as needed */
-    height: auto;
-  }
+.logo {
+  width: 150px; /* Adjust the size as needed */
+  height: auto;
+}
